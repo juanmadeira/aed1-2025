@@ -5,7 +5,6 @@
 #   xxxxx
 #  xxxxxxx
 # xxxxxxxxx
-
 t = input("Insira um tijolo: ")
 while len(t) != 1:
     t = input("Insira um (e apenas um) tijolo: ")
@@ -13,15 +12,20 @@ while len(t) != 1:
 h = int(input("Insira a altura: "))
 
 i = 0
-piramide = ""
+linha = ""
+piramide = "\n"
+blank = h
 while i < h:
+    while blank > 0:
+        piramide += " "
+        blank -= 1
     if i == 0:
-        piramide += t
+        linha += t
     else:
-        piramide2 = piramide
-        piramide += t + piramide2 + t
-
-    piramide += "\n"
+        linhaCopy = linha
+        linha = t + linhaCopy + t
+    piramide += linha + "\n"
     i += 1
+    blank = h - i
 
 print(f"{piramide}")
