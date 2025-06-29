@@ -1,4 +1,5 @@
 # Conte quantas vogais há em uma palavra
+
 palavra = input("Insira uma palavra: ")
 vogais = "aeiou"
 vogaisQtd = 0
@@ -12,4 +13,4 @@ while i < len(palavra):
         j += 1
     i += 1
 
-print(f"A palavra {palavra} possui {vogaisQtd} vogais.")
+print(f"\nA palavra {palavra} possui {vogaisQtd} vogais.")

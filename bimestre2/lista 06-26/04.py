@@ -1,4 +1,5 @@
 # Conte quantos números de 1 a 1000 são divisíveis por 7
+
 i = 1
 divisiveis = 0
 
