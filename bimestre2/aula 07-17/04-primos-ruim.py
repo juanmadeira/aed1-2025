@@ -1,7 +1,6 @@
 from timeit import default_timer as timer
 
 
-
 def primo(n):
     i = n - 1
     primo = True
