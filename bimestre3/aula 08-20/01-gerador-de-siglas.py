@@ -2,6 +2,25 @@
 # a) simples: Centro de Ciências Computacionais => CCC
 # b) com numeração: Centro de Ciências Computacionais => C3
 
+def compacta(term):
+    siglaCompacta = term[0]
+    i = 1
+    j = 1
+    while i < len(term):
+        if term[i] == term[i-1]:
+            j += 1
+        else:
+            siglaCompacta += term[i-1]
+            if j > 1:
+                siglaCompacta += str(j)
+            j = 1
+        i += 1
+    siglaCompacta += term[i-1]
+    if j > 1:
+        siglaCompacta += str(j)
+    return siglaCompacta.upper()
+
+
 # modes: simples, numeracao
 def sigla(term, mode):
     sigla = ""
@@ -18,7 +37,7 @@ def sigla(term, mode):
         return "\n" + sigla + "\n"
 
     elif mode == "NUMERACAO" or mode == "N":
-        # fazer!!!!!!!!!!!!!!!!!!
+        sigla = compacta(term)
         return "\n" + sigla + "\n"
 
     else:
