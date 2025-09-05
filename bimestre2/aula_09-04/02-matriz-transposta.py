@@ -1,4 +1,5 @@
 # implemente transpor(matriz) que receba uma matriz (lista de listas) e retorne sua transposta
+
 # exemplo:
 # entrada: [[1,2,3],[4,5,6]]
 # saída: [[1,4],[2,5],[3,6]]

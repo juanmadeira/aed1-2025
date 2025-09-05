@@ -1,4 +1,4 @@
-# crie uma função que "quebre" uma senha.
+# crie uma função que "quebre" uma senha
 # para facilitar, considere testes com números + letras maiúsculas
 
 def quebraSenha(senha):

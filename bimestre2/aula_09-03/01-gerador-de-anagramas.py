@@ -1,11 +1,7 @@
-# Gerador de Anagramas de Palavras
-# Crie uma função geraAnagramas(p) que retorne uma lista com TODOS os anagramas de uma palavra.
-# Ignore acentos e diferenças de maiúsculas/minúsculas.
-# Dica: o número de anagramas será o fatorial do número de diferentes letras.
-
-import random
-random.seed()
-
+# gerador de Anagramas de Palavras
+# crie uma função geraAnagramas(p) que retorne uma lista com TODOS os anagramas de uma palavra.
+# ignore acentos e diferenças de maiúsculas/minúsculas.
+# dica: o número de anagramas será o fatorial do número de diferentes letras.
 
 def fatorial(palavra):
     n = len(palavra)
@@ -23,19 +19,31 @@ def fatorial(palavra):
 
 def geraAnagramas(palavra):
     anagramas = []
-    pList = list(palavra)
-    while len(anagramas) < fatorial(palavra):
-        novoAnagrama = ""
-        for i in range(len(pList)):
-            randomIndex = random.randint(0, len(pList) - 1)
-            if randomIndex > len(pList):
-                randomIndex = -1
+    palavra = list(palavra)
 
-            novoAnagrama += pList[random.randint(0, randomIndex)]
-            pList.pop(randomIndex)
-        pList = list(palavra)
-        anagramas.append(novoAnagrama)
-    return pList, anagramas
+    # while len(anagramas) < fatorial(palavra):
+    # maiorSalto = int(len(palavra) - 1)
+
+    salto = 1
+    while salto < 3:
+        print(f"\nsalto = {salto}\n")
+        for j in range(len(palavra)):
+            for i in range(len(palavra)):
+                print(f"\ni = {i}")
+
+                cut = palavra[i:i + salto]
+                cut = "".join(cut)
+                print(f"cut = {cut}")
+
+                resto = palavra[:i] + palavra[i + salto:]
+                resto = "".join(resto)
+                print(f"resto = {resto}")
+
+                print(resto + cut)
+                anagramas.append(resto + cut)
+        salto += 1
+
+    return anagramas
 
 
 palavra = input("Insira uma palavra: ")
