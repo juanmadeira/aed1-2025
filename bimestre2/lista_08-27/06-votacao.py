@@ -23,7 +23,6 @@ def voting(votes):
 votes = []
 while True:
     votes.append(input("Insira o número do candidato desejado (digite \"fim\" para encerrar): "))
-    print(votes[-1])
     if votes[-1] == "fim":
         votes.pop(-1)
         break

@@ -2,6 +2,8 @@
 # o programa deve permitir adicionar produto, remover e vender (diminuindo quantidade)
 # se um produto esgotar, deve removê-lo das listas
 
+# INCOMPLETO
+
 products = []
 quantity = []
 def addProduct():
