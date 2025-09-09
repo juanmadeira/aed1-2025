@@ -1,6 +1,8 @@
 # crie uma função que "quebre" uma senha
 # para facilitar, considere testes com números + letras maiúsculas
 
+# INCOMPLETO
+
 def quebraSenha(senha):
     senha = senha.upper()
     tentativa = ""

@@ -1,7 +1,9 @@
-# gerador de Anagramas de Palavras
+# gerador de anagramas de palavras
 # crie uma função geraAnagramas(p) que retorne uma lista com TODOS os anagramas de uma palavra.
 # ignore acentos e diferenças de maiúsculas/minúsculas.
 # dica: o número de anagramas será o fatorial do número de diferentes letras.
+
+# INCOMPLETO
 
 def fatorial(palavra):
     n = len(palavra)

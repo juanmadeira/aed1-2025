@@ -32,10 +32,6 @@ while True:
         matriz.append(linha)
         break
 
-# professor(a), entendo que a existência do bloco de código abaixo é tão inútil quanto a minha capacidade de resolver esses exercícios,
-# porém, pelo capricho, resolvi testar algo que eu desconhecia.
-# atesto que não foi utilizada nenhuma _LLM_ no desenvolvimento desse código.
-
 try:
     transposta = transpor(matriz)
     print(f"\nMatriz original:\n{matriz}")
