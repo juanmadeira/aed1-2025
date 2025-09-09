@@ -3,21 +3,16 @@
 # entrada: A=[[1,2],[3,4]], B=[[2,0],[1,2]]
 # saída: [[4,4],[10,8]]
 
-# INCOMPLETO
-
 def multiplicar_matrizes(A, B):
     mult = []
-    k = 0
-    while k < 2:
+    for i in range(len(A)):
         linha = []
-        for i in range(len(A)):
+        for j in range(len(B[i])):
             n = 0
-            for j in range(len(A[i])):
-                n += int(A[i][j]) * int(B[j][i])
+            for k in range(len(A[j])):
+                n += int(A[i][k]) * int(B[k][j])
             linha.append(n)
-            print(linha)
         mult.append(linha)
-        k += 1
 
     return mult
 
