@@ -31,10 +31,10 @@ def velha(tabuleiro):
         jogador = tabuleiro[0][0]
         resultado = f"{jogador} venceu!"
     elif tabuleiro[1][0] == tabuleiro[1][1] == tabuleiro[1][2]:  # horizontal
-        jogador = tabuleiro[0][0]
+        jogador = tabuleiro[1][0]
         resultado = f"{jogador} venceu!"
     elif tabuleiro[2][0] == tabuleiro[2][1] == tabuleiro[2][2]:  # horizontal
-        jogador = tabuleiro[0][0]
+        jogador = tabuleiro[2][0]
         resultado = f"{jogador} venceu!"
     elif espacos > 0:
         resultado = "Jogo inacabado!"
