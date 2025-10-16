@@ -1,23 +1,7 @@
 # pegar um texto da web e colocar em um arq.txt
 # com esse arquivo:
-# a) salvar em outro arquivo o mesmo texto sem as vogais
-# b) criar uma lista de palavrões e verificar se o arquivo está "puro" ou quais palavrões contém
-# c) gerar o arquivo censurado (mantém primeira letra, resto vira "*")
-
-def removeVowels(file):
-    with open(file, "r") as file:
-        vowels = ["A", "E", "I", "O", "U", "Á", "À", "Â", "Ã", "É", "Ê", "Í", "Ì", "Ó", "Ô", "Õ"]
-        content = file.read()
-        output = content
-        for i in content:
-            for j in vowels:
-                if i.upper() == j:
-                    output = output.replace(i, "")
-    with open("01-sem-vogais.txt", "w") as file:
-        file.write(output)
-    with open("01-sem-vogais.txt", "r") as file:
-        return file.read()
-
+# criar uma lista de palavrões e verificar se o arquivo está "puro" ou quais palavrões contém
+# gerar o arquivo censurado (mantém primeira letra, resto vira "*")
 
 cuss_words_list = ["PORRA", "CARALHO", "MERDA"]
 def hasCussWords(file):
@@ -40,7 +24,7 @@ def hasCussWords(file):
                     content[i] = k
 
         content = str(content)
-        with open("01-sem-palavroes.txt", "w") as file:
+        with open("02-sem-palavroes.txt", "w") as file:
             file.write(content)
 
         cuss_words = ", ".join(cuss_words)
@@ -50,11 +34,8 @@ def hasCussWords(file):
         else:
             return False
 
-
-print(removeVowels("01-censurar-palavroes.txt"))
-if hasCussWords("01-censurar-palavroes.txt"):
-    has_cuss_words, cuss_words = hasCussWords("01-censurar-palavroes.txt")
+if hasCussWords("arquivo.txt"):
+    has_cuss_words, cuss_words = hasCussWords("arquivo.txt")
     print(f"O texto contém os palavrões: {cuss_words}.")
-    # print(f"\n{censor("01-censurar-palavroes.txt")}")
 else:
     print("O texto não contém palavrões.")
