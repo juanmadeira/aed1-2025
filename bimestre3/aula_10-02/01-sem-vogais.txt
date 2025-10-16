@@ -8,7 +8,7 @@ ss td q vc n qr sctr
  chg q qrnd td
 Qrnd td q vc n pd m dr
 ,  j vnc
-  cntn vncnd vcs td d (qbr ss prr crlh)
+  cntn vncnd vcs td d (qbr ss prr, crlh)
  sqrd fstv md ss lts td d
  n cnsg nm lgr
 Td q ls tm  ss
