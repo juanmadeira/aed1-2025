@@ -1,0 +1,498 @@
+id_cidade;nm_cidade;uf
+4607;Aceguá;RS
+4608;Água Santa;RS
+4609;Agudo;RS
+4610;Ajuricaba;RS
+4611;Alecrim;RS
+4612;Alegrete;RS
+4613;Alegria;RS
+4614;Almirante Tamandaré do Sul;RS
+4615;Alpestre;RS
+4616;Alto Alegre;RS
+4617;Alto Feliz;RS
+4618;Alvorada;RS
+4619;Amaral Ferrador;RS
+4620;Ametista do Sul;RS
+4621;André da Rocha;RS
+4622;Anta Gorda;RS
+4623;Antônio Prado;RS
+4624;Arambaré;RS
+4625;Araricá;RS
+4626;Aratiba;RS
+4627;Arroio do Meio;RS
+4628;Arroio do Sal;RS
+4629;Arroio do Padre;RS
+4630;Arroio dos Ratos;RS
+4631;Arroio do Tigre;RS
+4632;Arroio Grande;RS
+4633;Arvorezinha;RS
+4634;Augusto Pestana;RS
+4635;Áurea;RS
+4636;Bagé;RS
+4637;Balneário Pinhal;RS
+4638;Barão;RS
+4639;Barão de Cotegipe;RS
+4640;Barão do Triunfo;RS
+4641;Barracão;RS
+4642;Barra do Guarita;RS
+4643;Barra do Quaraí;RS
+4644;Barra do Ribeiro;RS
+4645;Barra do Rio Azul;RS
+4646;Barra Funda;RS
+4647;Barros Cassal;RS
+4648;Benjamin Constant do Sul;RS
+4649;Bento Gonçalves;RS
+4650;Boa Vista das Missões;RS
+4651;Boa Vista do Buricá;RS
+4652;Boa Vista do Cadeado;RS
+4653;Boa Vista do Incra;RS
+4654;Boa Vista do Sul;RS
+4655;Bom Jesus;RS
+4656;Bom Princípio;RS
+4657;Bom Progresso;RS
+4658;Bom Retiro do Sul;RS
+4659;Boqueirão do Leão;RS
+4660;Bossoroca;RS
+4661;Bozano;RS
+4662;Braga;RS
+4663;Brochier;RS
+4664;Butiá;RS
+4665;Caçapava do Sul;RS
+4666;Cacequi;RS
+4667;Cachoeira do Sul;RS
+4668;Cachoeirinha;RS
+4669;Cacique Doble;RS
+4670;Caibaté;RS
+4671;Caiçara;RS
+4672;Camaquã;RS
+4673;Camargo;RS
+4674;Cambará do Sul;RS
+4675;Campestre da Serra;RS
+4676;Campina das Missões;RS
+4677;Campinas do Sul;RS
+4678;Campo Bom;RS
+4679;Campo Novo;RS
+4680;Campos Borges;RS
+4681;Candelária;RS
+4682;Cândido Godói;RS
+4683;Candiota;RS
+4684;Canela;RS
+4685;Canguçu;RS
+4686;Canoas;RS
+4687;Canudos do Vale;RS
+4688;Capão Bonito do Sul;RS
+4689;Capão da Canoa;RS
+4690;Capão do Cipó;RS
+4691;Capão do Leão;RS
+4692;Capivari do Sul;RS
+4693;Capela de Santana;RS
+4694;Capitão;RS
+4695;Carazinho;RS
+4696;Caraá;RS
+4697;Carlos Barbosa;RS
+4698;Carlos Gomes;RS
+4699;Casca;RS
+4700;Caseiros;RS
+4701;Catuípe;RS
+4702;Caxias do Sul;RS
+4703;Centenário;RS
+4704;Cerrito;RS
+4705;Cerro Branco;RS
+4706;Cerro Grande;RS
+4707;Cerro Grande do Sul;RS
+4708;Cerro Largo;RS
+4709;Chapada;RS
+4710;Charqueadas;RS
+4711;Charrua;RS
+4712;Chiapetta;RS
+4713;Chuí;RS
+4714;Chuvisca;RS
+4715;Cidreira;RS
+4716;Ciríaco;RS
+4717;Colinas;RS
+4718;Colorado;RS
+4719;Condor;RS
+4720;Constantina;RS
+4721;Coqueiro Baixo;RS
+4722;Coqueiros do Sul;RS
+4723;Coronel Barros;RS
+4724;Coronel Bicaco;RS
+4725;Coronel Pilar;RS
+4726;Cotiporã;RS
+4727;Coxilha;RS
+4728;Crissiumal;RS
+4729;Cristal;RS
+4730;Cristal do Sul;RS
+4731;Cruz Alta;RS
+4732;Cruzaltense;RS
+4733;Cruzeiro do Sul;RS
+4734;David Canabarro;RS
+4735;Derrubadas;RS
+4736;Dezesseis de Novembro;RS
+4737;Dilermando de Aguiar;RS
+4738;Dois Irmãos;RS
+4739;Dois Irmãos das Missões;RS
+4740;Dois Lajeados;RS
+4741;Dom Feliciano;RS
+4742;Dom Pedro de Alcântara;RS
+4743;Dom Pedrito;RS
+4744;Dona Francisca;RS
+4745;Doutor Maurício Cardoso;RS
+4746;Doutor Ricardo;RS
+4747;Eldorado do Sul;RS
+4748;Encantado;RS
+4749;Encruzilhada do Sul;RS
+4750;Engenho Velho;RS
+4751;Entre-Ijuís;RS
+4752;Entre Rios do Sul;RS
+4753;Erebango;RS
+4754;Erechim;RS
+4755;Ernestina;RS
+4756;Herval;RS
+4757;Erval Grande;RS
+4758;Erval Seco;RS
+4759;Esmeralda;RS
+4760;Esperança do Sul;RS
+4761;Espumoso;RS
+4762;Estação;RS
+4763;Estância Velha;RS
+4764;Esteio;RS
+4765;Estrela;RS
+4766;Estrela Velha;RS
+4767;Eugênio de Castro;RS
+4768;Fagundes Varela;RS
+4769;Farroupilha;RS
+4770;Faxinal do Soturno;RS
+4771;Faxinalzinho;RS
+4772;Fazenda Vilanova;RS
+4773;Feliz;RS
+4774;Flores da Cunha;RS
+4775;Floriano Peixoto;RS
+4776;Fontoura Xavier;RS
+4777;Formigueiro;RS
+4778;Forquetinha;RS
+4779;Fortaleza dos Valos;RS
+4780;Frederico Westphalen;RS
+4781;Garibaldi;RS
+4782;Garruchos;RS
+4783;Gaurama;RS
+4784;General Câmara;RS
+4785;Gentil;RS
+4786;Getúlio Vargas;RS
+4787;Giruá;RS
+4788;Glorinha;RS
+4789;Gramado;RS
+4790;Gramado dos Loureiros;RS
+4791;Gramado Xavier;RS
+4792;Gravataí;RS
+4793;Guabiju;RS
+4794;Guaíba;RS
+4795;Guaporé;RS
+4796;Guarani das Missões;RS
+4797;Harmonia;RS
+4798;Herveiras;RS
+4799;Horizontina;RS
+4800;Hulha Negra;RS
+4801;Humaitá;RS
+4802;Ibarama;RS
+4803;Ibiaçá;RS
+4804;Ibiraiaras;RS
+4805;Ibirapuitã;RS
+4806;Ibirubá;RS
+4807;Igrejinha;RS
+4808;Ijuí;RS
+4809;Ilópolis;RS
+4810;Imbé;RS
+4811;Imigrante;RS
+4812;Independência;RS
+4813;Inhacorá;RS
+4814;Ipê;RS
+4815;Ipiranga do Sul;RS
+4816;Iraí;RS
+4817;Itaara;RS
+4818;Itacurubi;RS
+4819;Itapuca;RS
+4820;Itaqui;RS
+4821;Itati;RS
+4822;Itatiba do Sul;RS
+4823;Ivorá;RS
+4824;Ivoti;RS
+4825;Jaboticaba;RS
+4826;Jacuizinho;RS
+4827;Jacutinga;RS
+4828;Jaguarão;RS
+4829;Jaguari;RS
+4830;Jaquirana;RS
+4831;Jari;RS
+4832;Jóia;RS
+4833;Júlio de Castilhos;RS
+4834;Lagoa Bonita do Sul;RS
+4835;Lagoão;RS
+4836;Lagoa dos Três Cantos;RS
+4837;Lagoa Vermelha;RS
+4838;Lajeado;RS
+4839;Lajeado do Bugre;RS
+4840;Lavras do Sul;RS
+4841;Liberato Salzano;RS
+4842;Lindolfo Collor;RS
+4843;Linha Nova;RS
+4844;Machadinho;RS
+4845;Maçambará;RS
+4846;Mampituba;RS
+4847;Manoel Viana;RS
+4848;Maquiné;RS
+4849;Maratá;RS
+4850;Marau;RS
+4851;Marcelino Ramos;RS
+4852;Mariana Pimentel;RS
+4853;Mariano Moro;RS
+4854;Marques de Souza;RS
+4855;Mata;RS
+4856;Mato Castelhano;RS
+4857;Mato Leitão;RS
+4858;Mato Queimado;RS
+4859;Maximiliano de Almeida;RS
+4860;Minas do Leão;RS
+4861;Miraguaí;RS
+4862;Montauri;RS
+4863;Monte Alegre dos Campos;RS
+4864;Monte Belo do Sul;RS
+4865;Montenegro;RS
+4866;Mormaço;RS
+4867;Morrinhos do Sul;RS
+4868;Morro Redondo;RS
+4869;Morro Reuter;RS
+4870;Mostardas;RS
+4871;Muçum;RS
+4872;Muitos Capões;RS
+4873;Muliterno;RS
+4874;Não-Me-Toque;RS
+4875;Nicolau Vergueiro;RS
+4876;Nonoai;RS
+4877;Nova Alvorada;RS
+4878;Nova Araçá;RS
+4879;Nova Bassano;RS
+4880;Nova Boa Vista;RS
+4881;Nova Bréscia;RS
+4882;Nova Candelária;RS
+4883;Nova Esperança do Sul;RS
+4884;Nova Hartz;RS
+4885;Nova Pádua;RS
+4886;Nova Palma;RS
+4887;Nova Petrópolis;RS
+4888;Nova Prata;RS
+4889;Nova Ramada;RS
+4890;Nova Roma do Sul;RS
+4891;Nova Santa Rita;RS
+4892;Novo Cabrais;RS
+4893;Novo Hamburgo;RS
+4894;Novo Machado;RS
+4895;Novo Tiradentes;RS
+4896;Novo Xingu;RS
+4897;Novo Barreiro;RS
+4898;Osório;RS
+4899;Paim Filho;RS
+4900;Palmares do Sul;RS
+4901;Palmeira das Missões;RS
+4902;Palmitinho;RS
+4903;Panambi;RS
+4904;Pantano Grande;RS
+4905;Paraí;RS
+4906;Paraíso do Sul;RS
+4907;Pareci Novo;RS
+4908;Parobé;RS
+4909;Passa Sete;RS
+4910;Passo do Sobrado;RS
+4911;Passo Fundo;RS
+4912;Paulo Bento;RS
+4913;Paverama;RS
+4914;Pedras Altas;RS
+4915;Pedro Osório;RS
+4916;Pejuçara;RS
+4917;Pelotas;RS
+4918;Picada Café;RS
+4919;Pinhal;RS
+4920;Pinhal da Serra;RS
+4921;Pinhal Grande;RS
+4922;Pinheirinho do Vale;RS
+4923;Pinheiro Machado;RS
+4924;Pinto Bandeira;RS
+4925;Pirapó;RS
+4926;Piratini;RS
+4927;Planalto;RS
+4928;Poço das Antas;RS
+4929;Pontão;RS
+4930;Ponte Preta;RS
+4931;Portão;RS
+4932;Porto Alegre;RS
+4933;Porto Lucena;RS
+4934;Porto Mauá;RS
+4935;Porto Vera Cruz;RS
+4936;Porto Xavier;RS
+4937;Pouso Novo;RS
+4938;Presidente Lucena;RS
+4939;Progresso;RS
+4940;Protásio Alves;RS
+4941;Putinga;RS
+4942;Quaraí;RS
+4943;Quatro Irmãos;RS
+4944;Quevedos;RS
+4945;Quinze de Novembro;RS
+4946;Redentora;RS
+4947;Relvado;RS
+4948;Restinga Seca;RS
+4949;Rio dos Índios;RS
+4950;Rio Grande;RS
+4951;Rio Pardo;RS
+4952;Riozinho;RS
+4953;Roca Sales;RS
+4954;Rodeio Bonito;RS
+4955;Rolador;RS
+4956;Rolante;RS
+4957;Ronda Alta;RS
+4958;Rondinha;RS
+4959;Roque Gonzales;RS
+4960;Rosário do Sul;RS
+4961;Sagrada Família;RS
+4962;Saldanha Marinho;RS
+4963;Salto do Jacuí;RS
+4964;Salvador das Missões;RS
+4965;Salvador do Sul;RS
+4966;Sananduva;RS
+4967;Santa Bárbara do Sul;RS
+4968;Santa Cecília do Sul;RS
+4969;Santa Clara do Sul;RS
+4970;Santa Cruz do Sul;RS
+4971;Santa Maria;RS
+4972;Santa Maria do Herval;RS
+4973;Santa Margarida do Sul;RS
+4974;Santana da Boa Vista;RS
+4975;Sant'Ana do Livramento;RS
+4976;Santa Rosa;RS
+4977;Santa Tereza;RS
+4978;Santa Vitória do Palmar;RS
+4979;Santiago;RS
+4980;Santo Ângelo;RS
+4981;Santo Antônio do Palma;RS
+4982;Santo Antônio da Patrulha;RS
+4983;Santo Antônio das Missões;RS
+4984;Santo Antônio do Planalto;RS
+4985;Santo Augusto;RS
+4986;Santo Cristo;RS
+4987;Santo Expedito do Sul;RS
+4988;São Borja;RS
+4989;São Domingos do Sul;RS
+4990;São Francisco de Assis;RS
+4991;São Francisco de Paula;RS
+4992;São Gabriel;RS
+4993;São Jerônimo;RS
+4994;São João da Urtiga;RS
+4995;São João do Polêsine;RS
+4996;São Jorge;RS
+4997;São José das Missões;RS
+4998;São José do Herval;RS
+4999;São José do Hortêncio;RS
+5000;São José do Inhacorá;RS
+5001;São José do Norte;RS
+5002;São José do Ouro;RS
+5003;São José do Sul;RS
+5004;São José dos Ausentes;RS
+5005;São Leopoldo;RS
+5006;São Lourenço do Sul;RS
+5007;São Luiz Gonzaga;RS
+5008;São Marcos;RS
+5009;São Martinho;RS
+5010;São Martinho da Serra;RS
+5011;São Miguel das Missões;RS
+5012;São Nicolau;RS
+5013;São Paulo das Missões;RS
+5014;São Pedro da Serra;RS
+5015;São Pedro das Missões;RS
+5016;São Pedro do Butiá;RS
+5017;São Pedro do Sul;RS
+5018;São Sebastião do Caí;RS
+5019;São Sepé;RS
+5020;São Valentim;RS
+5021;São Valentim do Sul;RS
+5022;São Valério do Sul;RS
+5023;São Vendelino;RS
+5024;São Vicente do Sul;RS
+5025;Sapiranga;RS
+5026;Sapucaia do Sul;RS
+5027;Sarandi;RS
+5028;Seberi;RS
+5029;Sede Nova;RS
+5030;Segredo;RS
+5031;Selbach;RS
+5032;Senador Salgado Filho;RS
+5033;Sentinela do Sul;RS
+5034;Serafina Corrêa;RS
+5035;Sério;RS
+5036;Sertão;RS
+5037;Sertão Santana;RS
+5038;Sete de Setembro;RS
+5039;Severiano de Almeida;RS
+5040;Silveira Martins;RS
+5041;Sinimbu;RS
+5042;Sobradinho;RS
+5043;Soledade;RS
+5044;Tabaí;RS
+5045;Tapejara;RS
+5046;Tapera;RS
+5047;Tapes;RS
+5048;Taquara;RS
+5049;Taquari;RS
+5050;Taquaruçu do Sul;RS
+5051;Tavares;RS
+5052;Tenente Portela;RS
+5053;Terra de Areia;RS
+5054;Teutônia;RS
+5055;Tio Hugo;RS
+5056;Tiradentes do Sul;RS
+5057;Toropi;RS
+5058;Torres;RS
+5059;Tramandaí;RS
+5060;Travesseiro;RS
+5061;Três Arroios;RS
+5062;Três Cachoeiras;RS
+5063;Três Coroas;RS
+5064;Três de Maio;RS
+5065;Três Forquilhas;RS
+5066;Três Palmeiras;RS
+5067;Três Passos;RS
+5068;Trindade do Sul;RS
+5069;Triunfo;RS
+5070;Tucunduva;RS
+5071;Tunas;RS
+5072;Tupanci do Sul;RS
+5073;Tupanciretã;RS
+5074;Tupandi;RS
+5075;Tuparendi;RS
+5076;Turuçu;RS
+5077;Ubiretama;RS
+5078;União da Serra;RS
+5079;Unistalda;RS
+5080;Uruguaiana;RS
+5081;Vacaria;RS
+5082;Vale Verde;RS
+5083;Vale do Sol;RS
+5084;Vale Real;RS
+5085;Vanini;RS
+5086;Venâncio Aires;RS
+5087;Vera Cruz;RS
+5088;Veranópolis;RS
+5089;Vespasiano Correa;RS
+5090;Viadutos;RS
+5091;Viamão;RS
+5092;Vicente Dutra;RS
+5093;Victor Graeff;RS
+5094;Vila Flores;RS
+5095;Vila Lângaro;RS
+5096;Vila Maria;RS
+5097;Vila Nova do Sul;RS
+5098;Vista Alegre;RS
+5099;Vista Alegre do Prata;RS
+5100;Vista Gaúcha;RS
+5101;Vitória das Missões;RS
+5102;Westfalia;RS
+5103;Xangri-lá;RS

@@ -1,0 +1,36 @@
+	=== SUMÁRIO ===
+
+a) Quantas cidades por cada estado: 
+RO: 52 cidade(s)
+AC: 22 cidade(s)
+AM: 62 cidade(s)
+RR: 15 cidade(s)
+PA: 144 cidade(s)
+AP: 16 cidade(s)
+TO: 139 cidade(s)
+MA: 217 cidade(s)
+PI: 224 cidade(s)
+CE: 184 cidade(s)
+RN: 167 cidade(s)
+PB: 223 cidade(s)
+PE: 185 cidade(s)
+AL: 102 cidade(s)
+SE: 75 cidade(s)
+BA: 417 cidade(s)
+MG: 853 cidade(s)
+ES: 78 cidade(s)
+RJ: 92 cidade(s)
+SP: 645 cidade(s)
+PR: 399 cidade(s)
+SC: 295 cidade(s)
+RS: 497 cidade(s)
+MS: 79 cidade(s)
+MT: 141 cidade(s)
+GO: 246 cidade(s)
+DF: 1 cidade(s)
+
+b) Cidade com nome mais longo: 
+Vila Bela da Santíssima Trindade
+
+c) Cidade com nome mais curto: 
+Icó

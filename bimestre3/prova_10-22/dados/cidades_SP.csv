@@ -1,0 +1,646 @@
+id_cidade;nm_cidade;uf
+3268;Adamantina;SP
+3269;Adolfo;SP
+3270;Aguaí;SP
+3271;Águas da Prata;SP
+3272;Águas de Lindóia;SP
+3273;Águas de Santa Bárbara;SP
+3274;Águas de São Pedro;SP
+3275;Agudos;SP
+3276;Alambari;SP
+3277;Alfredo Marcondes;SP
+3278;Altair;SP
+3279;Altinópolis;SP
+3280;Alto Alegre;SP
+3281;Alumínio;SP
+3282;Álvares Florence;SP
+3283;Álvares Machado;SP
+3284;Álvaro de Carvalho;SP
+3285;Alvinlândia;SP
+3286;Americana;SP
+3287;Américo Brasiliense;SP
+3288;Américo de Campos;SP
+3289;Amparo;SP
+3290;Analândia;SP
+3291;Andradina;SP
+3292;Angatuba;SP
+3293;Anhembi;SP
+3294;Anhumas;SP
+3295;Aparecida;SP
+3296;Aparecida D'Oeste;SP
+3297;Apiaí;SP
+3298;Araçariguama;SP
+3299;Araçatuba;SP
+3300;Araçoiaba da Serra;SP
+3301;Aramina;SP
+3302;Arandu;SP
+3303;Arapeí;SP
+3304;Araraquara;SP
+3305;Araras;SP
+3306;Arco-Íris;SP
+3307;Arealva;SP
+3308;Areias;SP
+3309;Areiópolis;SP
+3310;Ariranha;SP
+3311;Artur Nogueira;SP
+3312;Arujá;SP
+3313;Aspásia;SP
+3314;Assis;SP
+3315;Atibaia;SP
+3316;Auriflama;SP
+3317;Avaí;SP
+3318;Avanhandava;SP
+3319;Avaré;SP
+3320;Bady Bassitt;SP
+3321;Balbinos;SP
+3322;Bálsamo;SP
+3323;Bananal;SP
+3324;Barão de Antonina;SP
+3325;Barbosa;SP
+3326;Bariri;SP
+3327;Barra Bonita;SP
+3328;Barra do Chapéu;SP
+3329;Barra do Turvo;SP
+3330;Barretos;SP
+3331;Barrinha;SP
+3332;Barueri;SP
+3333;Bastos;SP
+3334;Batatais;SP
+3335;Bauru;SP
+3336;Bebedouro;SP
+3337;Bento de Abreu;SP
+3338;Bernardino de Campos;SP
+3339;Bertioga;SP
+3340;Bilac;SP
+3341;Birigui;SP
+3342;Biritiba-Mirim;SP
+3343;Boa Esperança do Sul;SP
+3344;Bocaina;SP
+3345;Bofete;SP
+3346;Boituva;SP
+3347;Bom Jesus dos Perdões;SP
+3348;Bom Sucesso de Itararé;SP
+3349;Borá;SP
+3350;Boracéia;SP
+3351;Borborema;SP
+3352;Borebi;SP
+3353;Botucatu;SP
+3354;Bragança Paulista;SP
+3355;Braúna;SP
+3356;Brejo Alegre;SP
+3357;Brodowski;SP
+3358;Brotas;SP
+3359;Buri;SP
+3360;Buritama;SP
+3361;Buritizal;SP
+3362;Cabrália Paulista;SP
+3363;Cabreúva;SP
+3364;Caçapava;SP
+3365;Cachoeira Paulista;SP
+3366;Caconde;SP
+3367;Cafelândia;SP
+3368;Caiabu;SP
+3369;Caieiras;SP
+3370;Caiuá;SP
+3371;Cajamar;SP
+3372;Cajati;SP
+3373;Cajobi;SP
+3374;Cajuru;SP
+3375;Campina do Monte Alegre;SP
+3376;Campinas;SP
+3377;Campo Limpo Paulista;SP
+3378;Campos do Jordão;SP
+3379;Campos Novos Paulista;SP
+3380;Cananéia;SP
+3381;Canas;SP
+3382;Cândido Mota;SP
+3383;Cândido Rodrigues;SP
+3384;Canitar;SP
+3385;Capão Bonito;SP
+3386;Capela do Alto;SP
+3387;Capivari;SP
+3388;Caraguatatuba;SP
+3389;Carapicuíba;SP
+3390;Cardoso;SP
+3391;Casa Branca;SP
+3392;Cássia dos Coqueiros;SP
+3393;Castilho;SP
+3394;Catanduva;SP
+3395;Catiguá;SP
+3396;Cedral;SP
+3397;Cerqueira César;SP
+3398;Cerquilho;SP
+3399;Cesário Lange;SP
+3400;Charqueada;SP
+3401;Clementina;SP
+3402;Colina;SP
+3403;Colômbia;SP
+3404;Conchal;SP
+3405;Conchas;SP
+3406;Cordeirópolis;SP
+3407;Coroados;SP
+3408;Coronel Macedo;SP
+3409;Corumbataí;SP
+3410;Cosmópolis;SP
+3411;Cosmorama;SP
+3412;Cotia;SP
+3413;Cravinhos;SP
+3414;Cristais Paulista;SP
+3415;Cruzália;SP
+3416;Cruzeiro;SP
+3417;Cubatão;SP
+3418;Cunha;SP
+3419;Descalvado;SP
+3420;Diadema;SP
+3421;Dirce Reis;SP
+3422;Divinolândia;SP
+3423;Dobrada;SP
+3424;Dois Córregos;SP
+3425;Dolcinópolis;SP
+3426;Dourado;SP
+3427;Dracena;SP
+3428;Duartina;SP
+3429;Dumont;SP
+3430;Echaporã;SP
+3431;Eldorado;SP
+3432;Elias Fausto;SP
+3433;Elisiário;SP
+3434;Embaúba;SP
+3435;Embu das Artes;SP
+3436;Embu-Guaçu;SP
+3437;Emilianópolis;SP
+3438;Engenheiro Coelho;SP
+3439;Espírito Santo do Pinhal;SP
+3440;Espírito Santo do Turvo;SP
+3441;Estrela D'Oeste;SP
+3442;Estrela do Norte;SP
+3443;Euclides da Cunha Paulista;SP
+3444;Fartura;SP
+3445;Fernandópolis;SP
+3446;Fernando Prestes;SP
+3447;Fernão;SP
+3448;Ferraz de Vasconcelos;SP
+3449;Flora Rica;SP
+3450;Floreal;SP
+3451;Flórida Paulista;SP
+3452;Florínia;SP
+3453;Franca;SP
+3454;Francisco Morato;SP
+3455;Franco da Rocha;SP
+3456;Gabriel Monteiro;SP
+3457;Gália;SP
+3458;Garça;SP
+3459;Gastão Vidigal;SP
+3460;Gavião Peixoto;SP
+3461;General Salgado;SP
+3462;Getulina;SP
+3463;Glicério;SP
+3464;Guaiçara;SP
+3465;Guaimbê;SP
+3466;Guaíra;SP
+3467;Guapiaçu;SP
+3468;Guapiara;SP
+3469;Guará;SP
+3470;Guaraçaí;SP
+3471;Guaraci;SP
+3472;Guarani D'Oeste;SP
+3473;Guarantã;SP
+3474;Guararapes;SP
+3475;Guararema;SP
+3476;Guaratinguetá;SP
+3477;Guareí;SP
+3478;Guariba;SP
+3479;Guarujá;SP
+3480;Guarulhos;SP
+3481;Guatapará;SP
+3482;Guzolândia;SP
+3483;Herculândia;SP
+3484;Holambra;SP
+3485;Hortolândia;SP
+3486;Iacanga;SP
+3487;Iacri;SP
+3488;Iaras;SP
+3489;Ibaté;SP
+3490;Ibirá;SP
+3491;Ibirarema;SP
+3492;Ibitinga;SP
+3493;Ibiúna;SP
+3494;Icém;SP
+3495;Iepê;SP
+3496;Igaraçu do Tietê;SP
+3497;Igarapava;SP
+3498;Igaratá;SP
+3499;Iguape;SP
+3500;Ilhabela;SP
+3501;Ilha Comprida;SP
+3502;Ilha Solteira;SP
+3503;Indaiatuba;SP
+3504;Indiana;SP
+3505;Indiaporã;SP
+3506;Inúbia Paulista;SP
+3507;Ipaussu;SP
+3508;Iperó;SP
+3509;Ipeúna;SP
+3510;Ipiguá;SP
+3511;Iporanga;SP
+3512;Ipuã;SP
+3513;Iracemápolis;SP
+3514;Irapuã;SP
+3515;Irapuru;SP
+3516;Itaberá;SP
+3517;Itaí;SP
+3518;Itajobi;SP
+3519;Itaju;SP
+3520;Itanhaém;SP
+3521;Itaóca;SP
+3522;Itapecerica da Serra;SP
+3523;Itapetininga;SP
+3524;Itapeva;SP
+3525;Itapevi;SP
+3526;Itapira;SP
+3527;Itapirapuã Paulista;SP
+3528;Itápolis;SP
+3529;Itaporanga;SP
+3530;Itapuí;SP
+3531;Itapura;SP
+3532;Itaquaquecetuba;SP
+3533;Itararé;SP
+3534;Itariri;SP
+3535;Itatiba;SP
+3536;Itatinga;SP
+3537;Itirapina;SP
+3538;Itirapuã;SP
+3539;Itobi;SP
+3540;Itu;SP
+3541;Itupeva;SP
+3542;Ituverava;SP
+3543;Jaborandi;SP
+3544;Jaboticabal;SP
+3545;Jacareí;SP
+3546;Jaci;SP
+3547;Jacupiranga;SP
+3548;Jaguariúna;SP
+3549;Jales;SP
+3550;Jambeiro;SP
+3551;Jandira;SP
+3552;Jardinópolis;SP
+3553;Jarinu;SP
+3554;Jaú;SP
+3555;Jeriquara;SP
+3556;Joanópolis;SP
+3557;João Ramalho;SP
+3558;José Bonifácio;SP
+3559;Júlio Mesquita;SP
+3560;Jumirim;SP
+3561;Jundiaí;SP
+3562;Junqueirópolis;SP
+3563;Juquiá;SP
+3564;Juquitiba;SP
+3565;Lagoinha;SP
+3566;Laranjal Paulista;SP
+3567;Lavínia;SP
+3568;Lavrinhas;SP
+3569;Leme;SP
+3570;Lençóis Paulista;SP
+3571;Limeira;SP
+3572;Lindóia;SP
+3573;Lins;SP
+3574;Lorena;SP
+3575;Lourdes;SP
+3576;Louveira;SP
+3577;Lucélia;SP
+3578;Lucianópolis;SP
+3579;Luís Antônio;SP
+3580;Luiziânia;SP
+3581;Lupércio;SP
+3582;Lutécia;SP
+3583;Macatuba;SP
+3584;Macaubal;SP
+3585;Macedônia;SP
+3586;Magda;SP
+3587;Mairinque;SP
+3588;Mairiporã;SP
+3589;Manduri;SP
+3590;Marabá Paulista;SP
+3591;Maracaí;SP
+3592;Marapoama;SP
+3593;Mariápolis;SP
+3594;Marília;SP
+3595;Marinópolis;SP
+3596;Martinópolis;SP
+3597;Matão;SP
+3598;Mauá;SP
+3599;Mendonça;SP
+3600;Meridiano;SP
+3601;Mesópolis;SP
+3602;Miguelópolis;SP
+3603;Mineiros do Tietê;SP
+3604;Miracatu;SP
+3605;Mira Estrela;SP
+3606;Mirandópolis;SP
+3607;Mirante do Paranapanema;SP
+3608;Mirassol;SP
+3609;Mirassolândia;SP
+3610;Mococa;SP
+3611;Mogi das Cruzes;SP
+3612;Mogi Guaçu;SP
+3613;Moji Mirim;SP
+3614;Mombuca;SP
+3615;Monções;SP
+3616;Mongaguá;SP
+3617;Monte Alegre do Sul;SP
+3618;Monte Alto;SP
+3619;Monte Aprazível;SP
+3620;Monte Azul Paulista;SP
+3621;Monte Castelo;SP
+3622;Monteiro Lobato;SP
+3623;Monte Mor;SP
+3624;Morro Agudo;SP
+3625;Morungaba;SP
+3626;Motuca;SP
+3627;Murutinga do Sul;SP
+3628;Nantes;SP
+3629;Narandiba;SP
+3630;Natividade da Serra;SP
+3631;Nazaré Paulista;SP
+3632;Neves Paulista;SP
+3633;Nhandeara;SP
+3634;Nipoã;SP
+3635;Nova Aliança;SP
+3636;Nova Campina;SP
+3637;Nova Canaã Paulista;SP
+3638;Nova Castilho;SP
+3639;Nova Europa;SP
+3640;Nova Granada;SP
+3641;Nova Guataporanga;SP
+3642;Nova Independência;SP
+3643;Novais;SP
+3644;Nova Luzitânia;SP
+3645;Nova Odessa;SP
+3646;Novo Horizonte;SP
+3647;Nuporanga;SP
+3648;Ocauçu;SP
+3649;Óleo;SP
+3650;Olímpia;SP
+3651;Onda Verde;SP
+3652;Oriente;SP
+3653;Orindiúva;SP
+3654;Orlândia;SP
+3655;Osasco;SP
+3656;Oscar Bressane;SP
+3657;Osvaldo Cruz;SP
+3658;Ourinhos;SP
+3659;Ouroeste;SP
+3660;Ouro Verde;SP
+3661;Pacaembu;SP
+3662;Palestina;SP
+3663;Palmares Paulista;SP
+3664;Palmeira D'Oeste;SP
+3665;Palmital;SP
+3666;Panorama;SP
+3667;Paraguaçu Paulista;SP
+3668;Paraibuna;SP
+3669;Paraíso;SP
+3670;Paranapanema;SP
+3671;Paranapuã;SP
+3672;Parapuã;SP
+3673;Pardinho;SP
+3674;Pariquera-Açu;SP
+3675;Parisi;SP
+3676;Patrocínio Paulista;SP
+3677;Paulicéia;SP
+3678;Paulínia;SP
+3679;Paulistânia;SP
+3680;Paulo de Faria;SP
+3681;Pederneiras;SP
+3682;Pedra Bela;SP
+3683;Pedranópolis;SP
+3684;Pedregulho;SP
+3685;Pedreira;SP
+3686;Pedrinhas Paulista;SP
+3687;Pedro de Toledo;SP
+3688;Penápolis;SP
+3689;Pereira Barreto;SP
+3690;Pereiras;SP
+3691;Peruíbe;SP
+3692;Piacatu;SP
+3693;Piedade;SP
+3694;Pilar do Sul;SP
+3695;Pindamonhangaba;SP
+3696;Pindorama;SP
+3697;Pinhalzinho;SP
+3698;Piquerobi;SP
+3699;Piquete;SP
+3700;Piracaia;SP
+3701;Piracicaba;SP
+3702;Piraju;SP
+3703;Pirajuí;SP
+3704;Pirangi;SP
+3705;Pirapora do Bom Jesus;SP
+3706;Pirapozinho;SP
+3707;Pirassununga;SP
+3708;Piratininga;SP
+3709;Pitangueiras;SP
+3710;Planalto;SP
+3711;Platina;SP
+3712;Poá;SP
+3713;Poloni;SP
+3714;Pompéia;SP
+3715;Pongaí;SP
+3716;Pontal;SP
+3717;Pontalinda;SP
+3718;Pontes Gestal;SP
+3719;Populina;SP
+3720;Porangaba;SP
+3721;Porto Feliz;SP
+3722;Porto Ferreira;SP
+3723;Potim;SP
+3724;Potirendaba;SP
+3725;Pracinha;SP
+3726;Pradópolis;SP
+3727;Praia Grande;SP
+3728;Pratânia;SP
+3729;Presidente Alves;SP
+3730;Presidente Bernardes;SP
+3731;Presidente Epitácio;SP
+3732;Presidente Prudente;SP
+3733;Presidente Venceslau;SP
+3734;Promissão;SP
+3735;Quadra;SP
+3736;Quatá;SP
+3737;Queiroz;SP
+3738;Queluz;SP
+3739;Quintana;SP
+3740;Rafard;SP
+3741;Rancharia;SP
+3742;Redenção da Serra;SP
+3743;Regente Feijó;SP
+3744;Reginópolis;SP
+3745;Registro;SP
+3746;Restinga;SP
+3747;Ribeira;SP
+3748;Ribeirão Bonito;SP
+3749;Ribeirão Branco;SP
+3750;Ribeirão Corrente;SP
+3751;Ribeirão do Sul;SP
+3752;Ribeirão dos Índios;SP
+3753;Ribeirão Grande;SP
+3754;Ribeirão Pires;SP
+3755;Ribeirão Preto;SP
+3756;Riversul;SP
+3757;Rifaina;SP
+3758;Rincão;SP
+3759;Rinópolis;SP
+3760;Rio Claro;SP
+3761;Rio das Pedras;SP
+3762;Rio Grande da Serra;SP
+3763;Riolândia;SP
+3764;Rosana;SP
+3765;Roseira;SP
+3766;Rubiácea;SP
+3767;Rubinéia;SP
+3768;Sabino;SP
+3769;Sagres;SP
+3770;Sales;SP
+3771;Sales Oliveira;SP
+3772;Salesópolis;SP
+3773;Salmourão;SP
+3774;Saltinho;SP
+3775;Salto;SP
+3776;Salto de Pirapora;SP
+3777;Salto Grande;SP
+3778;Sandovalina;SP
+3779;Santa Adélia;SP
+3780;Santa Albertina;SP
+3781;Santa Bárbara D'Oeste;SP
+3782;Santa Branca;SP
+3783;Santa Clara D'Oeste;SP
+3784;Santa Cruz da Conceição;SP
+3785;Santa Cruz da Esperança;SP
+3786;Santa Cruz das Palmeiras;SP
+3787;Santa Cruz do Rio Pardo;SP
+3788;Santa Ernestina;SP
+3789;Santa Fé do Sul;SP
+3790;Santa Gertrudes;SP
+3791;Santa Isabel;SP
+3792;Santa Lúcia;SP
+3793;Santa Maria da Serra;SP
+3794;Santa Mercedes;SP
+3795;Santana da Ponte Pensa;SP
+3796;Santana de Parnaíba;SP
+3797;Santa Rita D'Oeste;SP
+3798;Santa Rita do Passa Quatro;SP
+3799;Santa Rosa de Viterbo;SP
+3800;Santa Salete;SP
+3801;Santo Anastácio;SP
+3802;Santo André;SP
+3803;Santo Antônio da Alegria;SP
+3804;Santo Antônio de Posse;SP
+3805;Santo Antônio do Aracanguá;SP
+3806;Santo Antônio do Jardim;SP
+3807;Santo Antônio do Pinhal;SP
+3808;Santo Expedito;SP
+3809;Santópolis do Aguapeí;SP
+3810;Santos;SP
+3811;São Bento do Sapucaí;SP
+3812;São Bernardo do Campo;SP
+3813;São Caetano do Sul;SP
+3814;São Carlos;SP
+3815;São Francisco;SP
+3816;São João da Boa Vista;SP
+3817;São João das Duas Pontes;SP
+3818;São João de Iracema;SP
+3819;São João do Pau D'Alho;SP
+3820;São Joaquim da Barra;SP
+3821;São José da Bela Vista;SP
+3822;São José do Barreiro;SP
+3823;São José do Rio Pardo;SP
+3824;São José do Rio Preto;SP
+3825;São José dos Campos;SP
+3826;São Lourenço da Serra;SP
+3827;São Luís do Paraitinga;SP
+3828;São Manuel;SP
+3829;São Miguel Arcanjo;SP
+3830;São Paulo;SP
+3831;São Pedro;SP
+3832;São Pedro do Turvo;SP
+3833;São Roque;SP
+3834;São Sebastião;SP
+3835;São Sebastião da Grama;SP
+3836;São Simão;SP
+3837;São Vicente;SP
+3838;Sarapuí;SP
+3839;Sarutaiá;SP
+3840;Sebastianópolis do Sul;SP
+3841;Serra Azul;SP
+3842;Serrana;SP
+3843;Serra Negra;SP
+3844;Sertãozinho;SP
+3845;Sete Barras;SP
+3846;Severínia;SP
+3847;Silveiras;SP
+3848;Socorro;SP
+3849;Sorocaba;SP
+3850;Sud Mennucci;SP
+3851;Sumaré;SP
+3852;Suzano;SP
+3853;Suzanápolis;SP
+3854;Tabapuã;SP
+3855;Tabatinga;SP
+3856;Taboão da Serra;SP
+3857;Taciba;SP
+3858;Taguaí;SP
+3859;Taiaçu;SP
+3860;Taiúva;SP
+3861;Tambaú;SP
+3862;Tanabi;SP
+3863;Tapiraí;SP
+3864;Tapiratiba;SP
+3865;Taquaral;SP
+3866;Taquaritinga;SP
+3867;Taquarituba;SP
+3868;Taquarivaí;SP
+3869;Tarabai;SP
+3870;Tarumã;SP
+3871;Tatuí;SP
+3872;Taubaté;SP
+3873;Tejupá;SP
+3874;Teodoro Sampaio;SP
+3875;Terra Roxa;SP
+3876;Tietê;SP
+3877;Timburi;SP
+3878;Torre de Pedra;SP
+3879;Torrinha;SP
+3880;Trabiju;SP
+3881;Tremembé;SP
+3882;Três Fronteiras;SP
+3883;Tuiuti;SP
+3884;Tupã;SP
+3885;Tupi Paulista;SP
+3886;Turiúba;SP
+3887;Turmalina;SP
+3888;Ubarana;SP
+3889;Ubatuba;SP
+3890;Ubirajara;SP
+3891;Uchoa;SP
+3892;União Paulista;SP
+3893;Urânia;SP
+3894;Uru;SP
+3895;Urupês;SP
+3896;Valentim Gentil;SP
+3897;Valinhos;SP
+3898;Valparaíso;SP
+3899;Vargem;SP
+3900;Vargem Grande do Sul;SP
+3901;Vargem Grande Paulista;SP
+3902;Várzea Paulista;SP
+3903;Vera Cruz;SP
+3904;Vinhedo;SP
+3905;Viradouro;SP
+3906;Vista Alegre do Alto;SP
+3907;Vitória Brasil;SP
+3908;Votorantim;SP
+3909;Votuporanga;SP
+3910;Zacarias;SP
+3911;Chavantes;SP
+3912;Estiva Gerbi;SP

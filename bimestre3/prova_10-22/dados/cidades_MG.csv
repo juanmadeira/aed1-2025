@@ -1,0 +1,854 @@
+id_cidade;nm_cidade;uf
+2245;Abadia dos Dourados;MG
+2246;Abaeté;MG
+2247;Abre Campo;MG
+2248;Acaiaca;MG
+2249;Açucena;MG
+2250;Água Boa;MG
+2251;Água Comprida;MG
+2252;Aguanil;MG
+2253;Águas Formosas;MG
+2254;Águas Vermelhas;MG
+2255;Aimorés;MG
+2256;Aiuruoca;MG
+2257;Alagoa;MG
+2258;Albertina;MG
+2259;Além Paraíba;MG
+2260;Alfenas;MG
+2261;Alfredo Vasconcelos;MG
+2262;Almenara;MG
+2263;Alpercata;MG
+2264;Alpinópolis;MG
+2265;Alterosa;MG
+2266;Alto Caparaó;MG
+2267;Alto Rio Doce;MG
+2268;Alvarenga;MG
+2269;Alvinópolis;MG
+2270;Alvorada de Minas;MG
+2271;Amparo do Serra;MG
+2272;Andradas;MG
+2273;Cachoeira de Pajeú;MG
+2274;Andrelândia;MG
+2275;Angelândia;MG
+2276;Antônio Carlos;MG
+2277;Antônio Dias;MG
+2278;Antônio Prado de Minas;MG
+2279;Araçaí;MG
+2280;Aracitaba;MG
+2281;Araçuaí;MG
+2282;Araguari;MG
+2283;Arantina;MG
+2284;Araponga;MG
+2285;Araporã;MG
+2286;Arapuá;MG
+2287;Araújos;MG
+2288;Araxá;MG
+2289;Arceburgo;MG
+2290;Arcos;MG
+2291;Areado;MG
+2292;Argirita;MG
+2293;Aricanduva;MG
+2294;Arinos;MG
+2295;Astolfo Dutra;MG
+2296;Ataléia;MG
+2297;Augusto de Lima;MG
+2298;Baependi;MG
+2299;Baldim;MG
+2300;Bambuí;MG
+2301;Bandeira;MG
+2302;Bandeira do Sul;MG
+2303;Barão de Cocais;MG
+2304;Barão de Monte Alto;MG
+2305;Barbacena;MG
+2306;Barra Longa;MG
+2307;Barroso;MG
+2308;Bela Vista de Minas;MG
+2309;Belmiro Braga;MG
+2310;Belo Horizonte;MG
+2311;Belo Oriente;MG
+2312;Belo Vale;MG
+2313;Berilo;MG
+2314;Bertópolis;MG
+2315;Berizal;MG
+2316;Betim;MG
+2317;Bias Fortes;MG
+2318;Bicas;MG
+2319;Biquinhas;MG
+2320;Boa Esperança;MG
+2321;Bocaina de Minas;MG
+2322;Bocaiúva;MG
+2323;Bom Despacho;MG
+2324;Bom Jardim de Minas;MG
+2325;Bom Jesus da Penha;MG
+2326;Bom Jesus do Amparo;MG
+2327;Bom Jesus do Galho;MG
+2328;Bom Repouso;MG
+2329;Bom Sucesso;MG
+2330;Bonfim;MG
+2331;Bonfinópolis de Minas;MG
+2332;Bonito de Minas;MG
+2333;Borda da Mata;MG
+2334;Botelhos;MG
+2335;Botumirim;MG
+2336;Brasilândia de Minas;MG
+2337;Brasília de Minas;MG
+2338;Brás Pires;MG
+2339;Braúnas;MG
+2340;Brazópolis;MG
+2341;Brumadinho;MG
+2342;Bueno Brandão;MG
+2343;Buenópolis;MG
+2344;Bugre;MG
+2345;Buritis;MG
+2346;Buritizeiro;MG
+2347;Cabeceira Grande;MG
+2348;Cabo Verde;MG
+2349;Cachoeira da Prata;MG
+2350;Cachoeira de Minas;MG
+2351;Cachoeira Dourada;MG
+2352;Caetanópolis;MG
+2353;Caeté;MG
+2354;Caiana;MG
+2355;Cajuri;MG
+2356;Caldas;MG
+2357;Camacho;MG
+2358;Camanducaia;MG
+2359;Cambuí;MG
+2360;Cambuquira;MG
+2361;Campanário;MG
+2362;Campanha;MG
+2363;Campestre;MG
+2364;Campina Verde;MG
+2365;Campo Azul;MG
+2366;Campo Belo;MG
+2367;Campo do Meio;MG
+2368;Campo Florido;MG
+2369;Campos Altos;MG
+2370;Campos Gerais;MG
+2371;Canaã;MG
+2372;Canápolis;MG
+2373;Cana Verde;MG
+2374;Candeias;MG
+2375;Cantagalo;MG
+2376;Caparaó;MG
+2377;Capela Nova;MG
+2378;Capelinha;MG
+2379;Capetinga;MG
+2380;Capim Branco;MG
+2381;Capinópolis;MG
+2382;Capitão Andrade;MG
+2383;Capitão Enéas;MG
+2384;Capitólio;MG
+2385;Caputira;MG
+2386;Caraí;MG
+2387;Caranaíba;MG
+2388;Carandaí;MG
+2389;Carangola;MG
+2390;Caratinga;MG
+2391;Carbonita;MG
+2392;Careaçu;MG
+2393;Carlos Chagas;MG
+2394;Carmésia;MG
+2395;Carmo da Cachoeira;MG
+2396;Carmo da Mata;MG
+2397;Carmo de Minas;MG
+2398;Carmo do Cajuru;MG
+2399;Carmo do Paranaíba;MG
+2400;Carmo do Rio Claro;MG
+2401;Carmópolis de Minas;MG
+2402;Carneirinho;MG
+2403;Carrancas;MG
+2404;Carvalhópolis;MG
+2405;Carvalhos;MG
+2406;Casa Grande;MG
+2407;Cascalho Rico;MG
+2408;Cássia;MG
+2409;Conceição da Barra de Minas;MG
+2410;Cataguases;MG
+2411;Catas Altas;MG
+2412;Catas Altas da Noruega;MG
+2413;Catuji;MG
+2414;Catuti;MG
+2415;Caxambu;MG
+2416;Cedro do Abaeté;MG
+2417;Central de Minas;MG
+2418;Centralina;MG
+2419;Chácara;MG
+2420;Chalé;MG
+2421;Chapada do Norte;MG
+2422;Chapada Gaúcha;MG
+2423;Chiador;MG
+2424;Cipotânea;MG
+2425;Claraval;MG
+2426;Claro dos Poções;MG
+2427;Cláudio;MG
+2428;Coimbra;MG
+2429;Coluna;MG
+2430;Comendador Gomes;MG
+2431;Comercinho;MG
+2432;Conceição da Aparecida;MG
+2433;Conceição das Pedras;MG
+2434;Conceição das Alagoas;MG
+2435;Conceição de Ipanema;MG
+2436;Conceição do Mato Dentro;MG
+2437;Conceição do Pará;MG
+2438;Conceição do Rio Verde;MG
+2439;Conceição dos Ouros;MG
+2440;Cônego Marinho;MG
+2441;Confins;MG
+2442;Congonhal;MG
+2443;Congonhas;MG
+2444;Congonhas do Norte;MG
+2445;Conquista;MG
+2446;Conselheiro Lafaiete;MG
+2447;Conselheiro Pena;MG
+2448;Consolação;MG
+2449;Contagem;MG
+2450;Coqueiral;MG
+2451;Coração de Jesus;MG
+2452;Cordisburgo;MG
+2453;Cordislândia;MG
+2454;Corinto;MG
+2455;Coroaci;MG
+2456;Coromandel;MG
+2457;Coronel Fabriciano;MG
+2458;Coronel Murta;MG
+2459;Coronel Pacheco;MG
+2460;Coronel Xavier Chaves;MG
+2461;Córrego Danta;MG
+2462;Córrego do Bom Jesus;MG
+2463;Córrego Fundo;MG
+2464;Córrego Novo;MG
+2465;Couto de Magalhães de Minas;MG
+2466;Crisólita;MG
+2467;Cristais;MG
+2468;Cristália;MG
+2469;Cristiano Otoni;MG
+2470;Cristina;MG
+2471;Crucilândia;MG
+2472;Cruzeiro da Fortaleza;MG
+2473;Cruzília;MG
+2474;Cuparaque;MG
+2475;Curral de Dentro;MG
+2476;Curvelo;MG
+2477;Datas;MG
+2478;Delfim Moreira;MG
+2479;Delfinópolis;MG
+2480;Delta;MG
+2481;Descoberto;MG
+2482;Desterro de Entre Rios;MG
+2483;Desterro do Melo;MG
+2484;Diamantina;MG
+2485;Diogo de Vasconcelos;MG
+2486;Dionísio;MG
+2487;Divinésia;MG
+2488;Divino;MG
+2489;Divino das Laranjeiras;MG
+2490;Divinolândia de Minas;MG
+2491;Divinópolis;MG
+2492;Divisa Alegre;MG
+2493;Divisa Nova;MG
+2494;Divisópolis;MG
+2495;Dom Bosco;MG
+2496;Dom Cavati;MG
+2497;Dom Joaquim;MG
+2498;Dom Silvério;MG
+2499;Dom Viçoso;MG
+2500;Dona Eusébia;MG
+2501;Dores de Campos;MG
+2502;Dores de Guanhães;MG
+2503;Dores do Indaiá;MG
+2504;Dores do Turvo;MG
+2505;Doresópolis;MG
+2506;Douradoquara;MG
+2507;Durandé;MG
+2508;Elói Mendes;MG
+2509;Engenheiro Caldas;MG
+2510;Engenheiro Navarro;MG
+2511;Entre Folhas;MG
+2512;Entre Rios de Minas;MG
+2513;Ervália;MG
+2514;Esmeraldas;MG
+2515;Espera Feliz;MG
+2516;Espinosa;MG
+2517;Espírito Santo do Dourado;MG
+2518;Estiva;MG
+2519;Estrela Dalva;MG
+2520;Estrela do Indaiá;MG
+2521;Estrela do Sul;MG
+2522;Eugenópolis;MG
+2523;Ewbank da Câmara;MG
+2524;Extrema;MG
+2525;Fama;MG
+2526;Faria Lemos;MG
+2527;Felício dos Santos;MG
+2528;São Gonçalo do Rio Preto;MG
+2529;Felisburgo;MG
+2530;Felixlândia;MG
+2531;Fernandes Tourinho;MG
+2532;Ferros;MG
+2533;Fervedouro;MG
+2534;Florestal;MG
+2535;Formiga;MG
+2536;Formoso;MG
+2537;Fortaleza de Minas;MG
+2538;Fortuna de Minas;MG
+2539;Francisco Badaró;MG
+2540;Francisco Dumont;MG
+2541;Francisco Sá;MG
+2542;Franciscópolis;MG
+2543;Frei Gaspar;MG
+2544;Frei Inocêncio;MG
+2545;Frei Lagonegro;MG
+2546;Fronteira;MG
+2547;Fronteira dos Vales;MG
+2548;Fruta de Leite;MG
+2549;Frutal;MG
+2550;Funilândia;MG
+2551;Galiléia;MG
+2552;Gameleiras;MG
+2553;Glaucilândia;MG
+2554;Goiabeira;MG
+2555;Goianá;MG
+2556;Gonçalves;MG
+2557;Gonzaga;MG
+2558;Gouveia;MG
+2559;Governador Valadares;MG
+2560;Grão Mogol;MG
+2561;Grupiara;MG
+2562;Guanhães;MG
+2563;Guapé;MG
+2564;Guaraciaba;MG
+2565;Guaraciama;MG
+2566;Guaranésia;MG
+2567;Guarani;MG
+2568;Guarará;MG
+2569;Guarda-Mor;MG
+2570;Guaxupé;MG
+2571;Guidoval;MG
+2572;Guimarânia;MG
+2573;Guiricema;MG
+2574;Gurinhatã;MG
+2575;Heliodora;MG
+2576;Iapu;MG
+2577;Ibertioga;MG
+2578;Ibiá;MG
+2579;Ibiaí;MG
+2580;Ibiracatu;MG
+2581;Ibiraci;MG
+2582;Ibirité;MG
+2583;Ibitiúra de Minas;MG
+2584;Ibituruna;MG
+2585;Icaraí de Minas;MG
+2586;Igarapé;MG
+2587;Igaratinga;MG
+2588;Iguatama;MG
+2589;Ijaci;MG
+2590;Ilicínea;MG
+2591;Imbé de Minas;MG
+2592;Inconfidentes;MG
+2593;Indaiabira;MG
+2594;Indianópolis;MG
+2595;Ingaí;MG
+2596;Inhapim;MG
+2597;Inhaúma;MG
+2598;Inimutaba;MG
+2599;Ipaba;MG
+2600;Ipanema;MG
+2601;Ipatinga;MG
+2602;Ipiaçu;MG
+2603;Ipuiúna;MG
+2604;Iraí de Minas;MG
+2605;Itabira;MG
+2606;Itabirinha;MG
+2607;Itabirito;MG
+2608;Itacambira;MG
+2609;Itacarambi;MG
+2610;Itaguara;MG
+2611;Itaipé;MG
+2612;Itajubá;MG
+2613;Itamarandiba;MG
+2614;Itamarati de Minas;MG
+2615;Itambacuri;MG
+2616;Itambé do Mato Dentro;MG
+2617;Itamogi;MG
+2618;Itamonte;MG
+2619;Itanhandu;MG
+2620;Itanhomi;MG
+2621;Itaobim;MG
+2622;Itapagipe;MG
+2623;Itapecerica;MG
+2624;Itapeva;MG
+2625;Itatiaiuçu;MG
+2626;Itaú de Minas;MG
+2627;Itaúna;MG
+2628;Itaverava;MG
+2629;Itinga;MG
+2630;Itueta;MG
+2631;Ituiutaba;MG
+2632;Itumirim;MG
+2633;Iturama;MG
+2634;Itutinga;MG
+2635;Jaboticatubas;MG
+2636;Jacinto;MG
+2637;Jacuí;MG
+2638;Jacutinga;MG
+2639;Jaguaraçu;MG
+2640;Jaíba;MG
+2641;Jampruca;MG
+2642;Janaúba;MG
+2643;Januária;MG
+2644;Japaraíba;MG
+2645;Japonvar;MG
+2646;Jeceaba;MG
+2647;Jenipapo de Minas;MG
+2648;Jequeri;MG
+2649;Jequitaí;MG
+2650;Jequitibá;MG
+2651;Jequitinhonha;MG
+2652;Jesuânia;MG
+2653;Joaíma;MG
+2654;Joanésia;MG
+2655;João Monlevade;MG
+2656;João Pinheiro;MG
+2657;Joaquim Felício;MG
+2658;Jordânia;MG
+2659;José Gonçalves de Minas;MG
+2660;José Raydan;MG
+2661;Josenópolis;MG
+2662;Nova União;MG
+2663;Juatuba;MG
+2664;Juiz de Fora;MG
+2665;Juramento;MG
+2666;Juruaia;MG
+2667;Juvenília;MG
+2668;Ladainha;MG
+2669;Lagamar;MG
+2670;Lagoa da Prata;MG
+2671;Lagoa dos Patos;MG
+2672;Lagoa Dourada;MG
+2673;Lagoa Formosa;MG
+2674;Lagoa Grande;MG
+2675;Lagoa Santa;MG
+2676;Lajinha;MG
+2677;Lambari;MG
+2678;Lamim;MG
+2679;Laranjal;MG
+2680;Lassance;MG
+2681;Lavras;MG
+2682;Leandro Ferreira;MG
+2683;Leme do Prado;MG
+2684;Leopoldina;MG
+2685;Liberdade;MG
+2686;Lima Duarte;MG
+2687;Limeira do Oeste;MG
+2688;Lontra;MG
+2689;Luisburgo;MG
+2690;Luislândia;MG
+2691;Luminárias;MG
+2692;Luz;MG
+2693;Machacalis;MG
+2694;Machado;MG
+2695;Madre de Deus de Minas;MG
+2696;Malacacheta;MG
+2697;Mamonas;MG
+2698;Manga;MG
+2699;Manhuaçu;MG
+2700;Manhumirim;MG
+2701;Mantena;MG
+2702;Maravilhas;MG
+2703;Mar de Espanha;MG
+2704;Maria da Fé;MG
+2705;Mariana;MG
+2706;Marilac;MG
+2707;Mário Campos;MG
+2708;Maripá de Minas;MG
+2709;Marliéria;MG
+2710;Marmelópolis;MG
+2711;Martinho Campos;MG
+2712;Martins Soares;MG
+2713;Mata Verde;MG
+2714;Materlândia;MG
+2715;Mateus Leme;MG
+2716;Matias Barbosa;MG
+2717;Matias Cardoso;MG
+2718;Matipó;MG
+2719;Mato Verde;MG
+2720;Matozinhos;MG
+2721;Matutina;MG
+2722;Medeiros;MG
+2723;Medina;MG
+2724;Mendes Pimentel;MG
+2725;Mercês;MG
+2726;Mesquita;MG
+2727;Minas Novas;MG
+2728;Minduri;MG
+2729;Mirabela;MG
+2730;Miradouro;MG
+2731;Miraí;MG
+2732;Miravânia;MG
+2733;Moeda;MG
+2734;Moema;MG
+2735;Monjolos;MG
+2736;Monsenhor Paulo;MG
+2737;Montalvânia;MG
+2738;Monte Alegre de Minas;MG
+2739;Monte Azul;MG
+2740;Monte Belo;MG
+2741;Monte Carmelo;MG
+2742;Monte Formoso;MG
+2743;Monte Santo de Minas;MG
+2744;Montes Claros;MG
+2745;Monte Sião;MG
+2746;Montezuma;MG
+2747;Morada Nova de Minas;MG
+2748;Morro da Garça;MG
+2749;Morro do Pilar;MG
+2750;Munhoz;MG
+2751;Muriaé;MG
+2752;Mutum;MG
+2753;Muzambinho;MG
+2754;Nacip Raydan;MG
+2755;Nanuque;MG
+2756;Naque;MG
+2757;Natalândia;MG
+2758;Natércia;MG
+2759;Nazareno;MG
+2760;Nepomuceno;MG
+2761;Ninheira;MG
+2762;Nova Belém;MG
+2763;Nova Era;MG
+2764;Nova Lima;MG
+2765;Nova Módica;MG
+2766;Nova Ponte;MG
+2767;Nova Porteirinha;MG
+2768;Nova Resende;MG
+2769;Nova Serrana;MG
+2770;Novo Cruzeiro;MG
+2771;Novo Oriente de Minas;MG
+2772;Novorizonte;MG
+2773;Olaria;MG
+2774;Olhos-D'Água;MG
+2775;Olímpio Noronha;MG
+2776;Oliveira;MG
+2777;Oliveira Fortes;MG
+2778;Onça de Pitangui;MG
+2779;Oratórios;MG
+2780;Orizânia;MG
+2781;Ouro Branco;MG
+2782;Ouro Fino;MG
+2783;Ouro Preto;MG
+2784;Ouro Verde de Minas;MG
+2785;Padre Carvalho;MG
+2786;Padre Paraíso;MG
+2787;Paineiras;MG
+2788;Pains;MG
+2789;Pai Pedro;MG
+2790;Paiva;MG
+2791;Palma;MG
+2792;Palmópolis;MG
+2793;Papagaios;MG
+2794;Paracatu;MG
+2795;Pará de Minas;MG
+2796;Paraguaçu;MG
+2797;Paraisópolis;MG
+2798;Paraopeba;MG
+2799;Passabém;MG
+2800;Passa Quatro;MG
+2801;Passa Tempo;MG
+2802;Passa-Vinte;MG
+2803;Passos;MG
+2804;Patis;MG
+2805;Patos de Minas;MG
+2806;Patrocínio;MG
+2807;Patrocínio do Muriaé;MG
+2808;Paula Cândido;MG
+2809;Paulistas;MG
+2810;Pavão;MG
+2811;Peçanha;MG
+2812;Pedra Azul;MG
+2813;Pedra Bonita;MG
+2814;Pedra do Anta;MG
+2815;Pedra do Indaiá;MG
+2816;Pedra Dourada;MG
+2817;Pedralva;MG
+2818;Pedras de Maria da Cruz;MG
+2819;Pedrinópolis;MG
+2820;Pedro Leopoldo;MG
+2821;Pedro Teixeira;MG
+2822;Pequeri;MG
+2823;Pequi;MG
+2824;Perdigão;MG
+2825;Perdizes;MG
+2826;Perdões;MG
+2827;Periquito;MG
+2828;Pescador;MG
+2829;Piau;MG
+2830;Piedade de Caratinga;MG
+2831;Piedade de Ponte Nova;MG
+2832;Piedade do Rio Grande;MG
+2833;Piedade dos Gerais;MG
+2834;Pimenta;MG
+2835;Pingo-D'Água;MG
+2836;Pintópolis;MG
+2837;Piracema;MG
+2838;Pirajuba;MG
+2839;Piranga;MG
+2840;Piranguçu;MG
+2841;Piranguinho;MG
+2842;Pirapetinga;MG
+2843;Pirapora;MG
+2844;Piraúba;MG
+2845;Pitangui;MG
+2846;Piumhi;MG
+2847;Planura;MG
+2848;Poço Fundo;MG
+2849;Poços de Caldas;MG
+2850;Pocrane;MG
+2851;Pompéu;MG
+2852;Ponte Nova;MG
+2853;Ponto Chique;MG
+2854;Ponto dos Volantes;MG
+2855;Porteirinha;MG
+2856;Porto Firme;MG
+2857;Poté;MG
+2858;Pouso Alegre;MG
+2859;Pouso Alto;MG
+2860;Prados;MG
+2861;Prata;MG
+2862;Pratápolis;MG
+2863;Pratinha;MG
+2864;Presidente Bernardes;MG
+2865;Presidente Juscelino;MG
+2866;Presidente Kubitschek;MG
+2867;Presidente Olegário;MG
+2868;Alto Jequitibá;MG
+2869;Prudente de Morais;MG
+2870;Quartel Geral;MG
+2871;Queluzito;MG
+2872;Raposos;MG
+2873;Raul Soares;MG
+2874;Recreio;MG
+2875;Reduto;MG
+2876;Resende Costa;MG
+2877;Resplendor;MG
+2878;Ressaquinha;MG
+2879;Riachinho;MG
+2880;Riacho dos Machados;MG
+2881;Ribeirão das Neves;MG
+2882;Ribeirão Vermelho;MG
+2883;Rio Acima;MG
+2884;Rio Casca;MG
+2885;Rio Doce;MG
+2886;Rio do Prado;MG
+2887;Rio Espera;MG
+2888;Rio Manso;MG
+2889;Rio Novo;MG
+2890;Rio Paranaíba;MG
+2891;Rio Pardo de Minas;MG
+2892;Rio Piracicaba;MG
+2893;Rio Pomba;MG
+2894;Rio Preto;MG
+2895;Rio Vermelho;MG
+2896;Ritápolis;MG
+2897;Rochedo de Minas;MG
+2898;Rodeiro;MG
+2899;Romaria;MG
+2900;Rosário da Limeira;MG
+2901;Rubelita;MG
+2902;Rubim;MG
+2903;Sabará;MG
+2904;Sabinópolis;MG
+2905;Sacramento;MG
+2906;Salinas;MG
+2907;Salto da Divisa;MG
+2908;Santa Bárbara;MG
+2909;Santa Bárbara do Leste;MG
+2910;Santa Bárbara do Monte Verde;MG
+2911;Santa Bárbara do Tugúrio;MG
+2912;Santa Cruz de Minas;MG
+2913;Santa Cruz de Salinas;MG
+2914;Santa Cruz do Escalvado;MG
+2915;Santa Efigênia de Minas;MG
+2916;Santa Fé de Minas;MG
+2917;Santa Helena de Minas;MG
+2918;Santa Juliana;MG
+2919;Santa Luzia;MG
+2920;Santa Margarida;MG
+2921;Santa Maria de Itabira;MG
+2922;Santa Maria do Salto;MG
+2923;Santa Maria do Suaçuí;MG
+2924;Santana da Vargem;MG
+2925;Santana de Cataguases;MG
+2926;Santana de Pirapama;MG
+2927;Santana do Deserto;MG
+2928;Santana do Garambéu;MG
+2929;Santana do Jacaré;MG
+2930;Santana do Manhuaçu;MG
+2931;Santana do Paraíso;MG
+2932;Santana do Riacho;MG
+2933;Santana dos Montes;MG
+2934;Santa Rita de Caldas;MG
+2935;Santa Rita de Jacutinga;MG
+2936;Santa Rita de Minas;MG
+2937;Santa Rita de Ibitipoca;MG
+2938;Santa Rita do Itueto;MG
+2939;Santa Rita do Sapucaí;MG
+2940;Santa Rosa da Serra;MG
+2941;Santa Vitória;MG
+2942;Santo Antônio do Amparo;MG
+2943;Santo Antônio do Aventureiro;MG
+2944;Santo Antônio do Grama;MG
+2945;Santo Antônio do Itambé;MG
+2946;Santo Antônio do Jacinto;MG
+2947;Santo Antônio do Monte;MG
+2948;Santo Antônio do Retiro;MG
+2949;Santo Antônio do Rio Abaixo;MG
+2950;Santo Hipólito;MG
+2951;Santos Dumont;MG
+2952;São Bento Abade;MG
+2953;São Brás do Suaçuí;MG
+2954;São Domingos das Dores;MG
+2955;São Domingos do Prata;MG
+2956;São Félix de Minas;MG
+2957;São Francisco;MG
+2958;São Francisco de Paula;MG
+2959;São Francisco de Sales;MG
+2960;São Francisco do Glória;MG
+2961;São Geraldo;MG
+2962;São Geraldo da Piedade;MG
+2963;São Geraldo do Baixio;MG
+2964;São Gonçalo do Abaeté;MG
+2965;São Gonçalo do Pará;MG
+2966;São Gonçalo do Rio Abaixo;MG
+2967;São Gonçalo do Sapucaí;MG
+2968;São Gotardo;MG
+2969;São João Batista do Glória;MG
+2970;São João da Lagoa;MG
+2971;São João da Mata;MG
+2972;São João da Ponte;MG
+2973;São João das Missões;MG
+2974;São João del Rei;MG
+2975;São João do Manhuaçu;MG
+2976;São João do Manteninha;MG
+2977;São João do Oriente;MG
+2978;São João do Pacuí;MG
+2979;São João do Paraíso;MG
+2980;São João Evangelista;MG
+2981;São João Nepomuceno;MG
+2982;São Joaquim de Bicas;MG
+2983;São José da Barra;MG
+2984;São José da Lapa;MG
+2985;São José da Safira;MG
+2986;São José da Varginha;MG
+2987;São José do Alegre;MG
+2988;São José do Divino;MG
+2989;São José do Goiabal;MG
+2990;São José do Jacuri;MG
+2991;São José do Mantimento;MG
+2992;São Lourenço;MG
+2993;São Miguel do Anta;MG
+2994;São Pedro da União;MG
+2995;São Pedro dos Ferros;MG
+2996;São Pedro do Suaçuí;MG
+2997;São Romão;MG
+2998;São Roque de Minas;MG
+2999;São Sebastião da Bela Vista;MG
+3000;São Sebastião da Vargem Alegre;MG
+3001;São Sebastião do Anta;MG
+3002;São Sebastião do Maranhão;MG
+3003;São Sebastião do Oeste;MG
+3004;São Sebastião do Paraíso;MG
+3005;São Sebastião do Rio Preto;MG
+3006;São Sebastião do Rio Verde;MG
+3007;São Tiago;MG
+3008;São Tomás de Aquino;MG
+3009;São Thomé das Letras;MG
+3010;São Vicente de Minas;MG
+3011;Sapucaí-Mirim;MG
+3012;Sardoá;MG
+3013;Sarzedo;MG
+3014;Setubinha;MG
+3015;Sem-Peixe;MG
+3016;Senador Amaral;MG
+3017;Senador Cortes;MG
+3018;Senador Firmino;MG
+3019;Senador José Bento;MG
+3020;Senador Modestino Gonçalves;MG
+3021;Senhora de Oliveira;MG
+3022;Senhora do Porto;MG
+3023;Senhora dos Remédios;MG
+3024;Sericita;MG
+3025;Seritinga;MG
+3026;Serra Azul de Minas;MG
+3027;Serra da Saudade;MG
+3028;Serra dos Aimorés;MG
+3029;Serra do Salitre;MG
+3030;Serrania;MG
+3031;Serranópolis de Minas;MG
+3032;Serranos;MG
+3033;Serro;MG
+3034;Sete Lagoas;MG
+3035;Silveirânia;MG
+3036;Silvianópolis;MG
+3037;Simão Pereira;MG
+3038;Simonésia;MG
+3039;Sobrália;MG
+3040;Soledade de Minas;MG
+3041;Tabuleiro;MG
+3042;Taiobeiras;MG
+3043;Taparuba;MG
+3044;Tapira;MG
+3045;Tapiraí;MG
+3046;Taquaraçu de Minas;MG
+3047;Tarumirim;MG
+3048;Teixeiras;MG
+3049;Teófilo Otoni;MG
+3050;Timóteo;MG
+3051;Tiradentes;MG
+3052;Tiros;MG
+3053;Tocantins;MG
+3054;Tocos do Moji;MG
+3055;Toledo;MG
+3056;Tombos;MG
+3057;Três Corações;MG
+3058;Três Marias;MG
+3059;Três Pontas;MG
+3060;Tumiritinga;MG
+3061;Tupaciguara;MG
+3062;Turmalina;MG
+3063;Turvolândia;MG
+3064;Ubá;MG
+3065;Ubaí;MG
+3066;Ubaporanga;MG
+3067;Uberaba;MG
+3068;Uberlândia;MG
+3069;Umburatiba;MG
+3070;Unaí;MG
+3071;União de Minas;MG
+3072;Uruana de Minas;MG
+3073;Urucânia;MG
+3074;Urucuia;MG
+3075;Vargem Alegre;MG
+3076;Vargem Bonita;MG
+3077;Vargem Grande do Rio Pardo;MG
+3078;Varginha;MG
+3079;Varjão de Minas;MG
+3080;Várzea da Palma;MG
+3081;Varzelândia;MG
+3082;Vazante;MG
+3083;Verdelândia;MG
+3084;Veredinha;MG
+3085;Veríssimo;MG
+3086;Vermelho Novo;MG
+3087;Vespasiano;MG
+3088;Viçosa;MG
+3089;Vieiras;MG
+3090;Mathias Lobato;MG
+3091;Virgem da Lapa;MG
+3092;Virgínia;MG
+3093;Virginópolis;MG
+3094;Virgolândia;MG
+3095;Visconde do Rio Branco;MG
+3096;Volta Grande;MG
+3097;Wenceslau Braz;MG

@@ -1,0 +1,418 @@
+id_cidade;nm_cidade;uf
+1828;Abaíra;BA
+1829;Abaré;BA
+1830;Acajutiba;BA
+1831;Adustina;BA
+1832;Água Fria;BA
+1833;Érico Cardoso;BA
+1834;Aiquara;BA
+1835;Alagoinhas;BA
+1836;Alcobaça;BA
+1837;Almadina;BA
+1838;Amargosa;BA
+1839;Amélia Rodrigues;BA
+1840;América Dourada;BA
+1841;Anagé;BA
+1842;Andaraí;BA
+1843;Andorinha;BA
+1844;Angical;BA
+1845;Anguera;BA
+1846;Antas;BA
+1847;Antônio Cardoso;BA
+1848;Antônio Gonçalves;BA
+1849;Aporá;BA
+1850;Apuarema;BA
+1851;Aracatu;BA
+1852;Araças;BA
+1853;Araci;BA
+1854;Aramari;BA
+1855;Arataca;BA
+1856;Aratuípe;BA
+1857;Aurelino Leal;BA
+1858;Baianópolis;BA
+1859;Baixa Grande;BA
+1860;Banzaê;BA
+1861;Barra;BA
+1862;Barra da Estiva;BA
+1863;Barra do Choça;BA
+1864;Barra do Mendes;BA
+1865;Barra do Rocha;BA
+1866;Barreiras;BA
+1867;Barro Alto;BA
+1868;Barrocas;BA
+1869;Barro Preto;BA
+1870;Belmonte;BA
+1871;Belo Campo;BA
+1872;Biritinga;BA
+1873;Boa Nova;BA
+1874;Boa Vista do Tupim;BA
+1875;Bom Jesus da Lapa;BA
+1876;Bom Jesus da Serra;BA
+1877;Boninal;BA
+1878;Bonito;BA
+1879;Boquira;BA
+1880;Botuporã;BA
+1881;Brejões;BA
+1882;Brejolândia;BA
+1883;Brotas de Macaúbas;BA
+1884;Brumado;BA
+1885;Buerarema;BA
+1886;Buritirama;BA
+1887;Caatiba;BA
+1888;Cabaceiras do Paraguaçu;BA
+1889;Cachoeira;BA
+1890;Caculé;BA
+1891;Caém;BA
+1892;Caetanos;BA
+1893;Caetité;BA
+1894;Cafarnaum;BA
+1895;Cairu;BA
+1896;Caldeirão Grande;BA
+1897;Camacan;BA
+1898;Camaçari;BA
+1899;Camamu;BA
+1900;Campo Alegre de Lourdes;BA
+1901;Campo Formoso;BA
+1902;Canápolis;BA
+1903;Canarana;BA
+1904;Canavieiras;BA
+1905;Candeal;BA
+1906;Candeias;BA
+1907;Candiba;BA
+1908;Cândido Sales;BA
+1909;Cansanção;BA
+1910;Canudos;BA
+1911;Capela do Alto Alegre;BA
+1912;Capim Grosso;BA
+1913;Caraíbas;BA
+1914;Caravelas;BA
+1915;Cardeal da Silva;BA
+1916;Carinhanha;BA
+1917;Casa Nova;BA
+1918;Castro Alves;BA
+1919;Catolândia;BA
+1920;Catu;BA
+1921;Caturama;BA
+1922;Central;BA
+1923;Chorrochó;BA
+1924;Cícero Dantas;BA
+1925;Cipó;BA
+1926;Coaraci;BA
+1927;Cocos;BA
+1928;Conceição da Feira;BA
+1929;Conceição do Almeida;BA
+1930;Conceição do Coité;BA
+1931;Conceição do Jacuípe;BA
+1932;Conde;BA
+1933;Condeúba;BA
+1934;Contendas do Sincorá;BA
+1935;Coração de Maria;BA
+1936;Cordeiros;BA
+1937;Coribe;BA
+1938;Coronel João Sá;BA
+1939;Correntina;BA
+1940;Cotegipe;BA
+1941;Cravolândia;BA
+1942;Crisópolis;BA
+1943;Cristópolis;BA
+1944;Cruz das Almas;BA
+1945;Curaçá;BA
+1946;Dário Meira;BA
+1947;Dias D'Ávila;BA
+1948;Dom Basílio;BA
+1949;Dom Macedo Costa;BA
+1950;Elísio Medrado;BA
+1951;Encruzilhada;BA
+1952;Entre Rios;BA
+1953;Esplanada;BA
+1954;Euclides da Cunha;BA
+1955;Eunápolis;BA
+1956;Fátima;BA
+1957;Feira da Mata;BA
+1958;Feira de Santana;BA
+1959;Filadélfia;BA
+1960;Firmino Alves;BA
+1961;Floresta Azul;BA
+1962;Formosa do Rio Preto;BA
+1963;Gandu;BA
+1964;Gavião;BA
+1965;Gentio do Ouro;BA
+1966;Glória;BA
+1967;Gongogi;BA
+1968;Governador Mangabeira;BA
+1969;Guajeru;BA
+1970;Guanambi;BA
+1971;Guaratinga;BA
+1972;Heliópolis;BA
+1973;Iaçu;BA
+1974;Ibiassucê;BA
+1975;Ibicaraí;BA
+1976;Ibicoara;BA
+1977;Ibicuí;BA
+1978;Ibipeba;BA
+1979;Ibipitanga;BA
+1980;Ibiquera;BA
+1981;Ibirapitanga;BA
+1982;Ibirapuã;BA
+1983;Ibirataia;BA
+1984;Ibitiara;BA
+1985;Ibititá;BA
+1986;Ibotirama;BA
+1987;Ichu;BA
+1988;Igaporã;BA
+1989;Igrapiúna;BA
+1990;Iguaí;BA
+1991;Ilhéus;BA
+1992;Inhambupe;BA
+1993;Ipecaetá;BA
+1994;Ipiaú;BA
+1995;Ipirá;BA
+1996;Ipupiara;BA
+1997;Irajuba;BA
+1998;Iramaia;BA
+1999;Iraquara;BA
+2000;Irará;BA
+2001;Irecê;BA
+2002;Itabela;BA
+2003;Itaberaba;BA
+2004;Itabuna;BA
+2005;Itacaré;BA
+2006;Itaeté;BA
+2007;Itagi;BA
+2008;Itagibá;BA
+2009;Itagimirim;BA
+2010;Itaguaçu da Bahia;BA
+2011;Itaju do Colônia;BA
+2012;Itajuípe;BA
+2013;Itamaraju;BA
+2014;Itamari;BA
+2015;Itambé;BA
+2016;Itanagra;BA
+2017;Itanhém;BA
+2018;Itaparica;BA
+2019;Itapé;BA
+2020;Itapebi;BA
+2021;Itapetinga;BA
+2022;Itapicuru;BA
+2023;Itapitanga;BA
+2024;Itaquara;BA
+2025;Itarantim;BA
+2026;Itatim;BA
+2027;Itiruçu;BA
+2028;Itiúba;BA
+2029;Itororó;BA
+2030;Ituaçu;BA
+2031;Ituberá;BA
+2032;Iuiú;BA
+2033;Jaborandi;BA
+2034;Jacaraci;BA
+2035;Jacobina;BA
+2036;Jaguaquara;BA
+2037;Jaguarari;BA
+2038;Jaguaripe;BA
+2039;Jandaíra;BA
+2040;Jequié;BA
+2041;Jeremoabo;BA
+2042;Jiquiriçá;BA
+2043;Jitaúna;BA
+2044;João Dourado;BA
+2045;Juazeiro;BA
+2046;Jucuruçu;BA
+2047;Jussara;BA
+2048;Jussari;BA
+2049;Jussiape;BA
+2050;Lafaiete Coutinho;BA
+2051;Lagoa Real;BA
+2052;Laje;BA
+2053;Lajedão;BA
+2054;Lajedinho;BA
+2055;Lajedo do Tabocal;BA
+2056;Lamarão;BA
+2057;Lapão;BA
+2058;Lauro de Freitas;BA
+2059;Lençóis;BA
+2060;Licínio de Almeida;BA
+2061;Livramento de Nossa Senhora;BA
+2062;Luís Eduardo Magalhães;BA
+2063;Macajuba;BA
+2064;Macarani;BA
+2065;Macaúbas;BA
+2066;Macururé;BA
+2067;Madre de Deus;BA
+2068;Maetinga;BA
+2069;Maiquinique;BA
+2070;Mairi;BA
+2071;Malhada;BA
+2072;Malhada de Pedras;BA
+2073;Manoel Vitorino;BA
+2074;Mansidão;BA
+2075;Maracás;BA
+2076;Maragogipe;BA
+2077;Maraú;BA
+2078;Marcionílio Souza;BA
+2079;Mascote;BA
+2080;Mata de São João;BA
+2081;Matina;BA
+2082;Medeiros Neto;BA
+2083;Miguel Calmon;BA
+2084;Milagres;BA
+2085;Mirangaba;BA
+2086;Mirante;BA
+2087;Monte Santo;BA
+2088;Morpará;BA
+2089;Morro do Chapéu;BA
+2090;Mortugaba;BA
+2091;Mucugê;BA
+2092;Mucuri;BA
+2093;Mulungu do Morro;BA
+2094;Mundo Novo;BA
+2095;Muniz Ferreira;BA
+2096;Muquém de São Francisco;BA
+2097;Muritiba;BA
+2098;Mutuípe;BA
+2099;Nazaré;BA
+2100;Nilo Peçanha;BA
+2101;Nordestina;BA
+2102;Nova Canaã;BA
+2103;Nova Fátima;BA
+2104;Nova Ibiá;BA
+2105;Nova Itarana;BA
+2106;Nova Redenção;BA
+2107;Nova Soure;BA
+2108;Nova Viçosa;BA
+2109;Novo Horizonte;BA
+2110;Novo Triunfo;BA
+2111;Olindina;BA
+2112;Oliveira dos Brejinhos;BA
+2113;Ouriçangas;BA
+2114;Ourolândia;BA
+2115;Palmas de Monte Alto;BA
+2116;Palmeiras;BA
+2117;Paramirim;BA
+2118;Paratinga;BA
+2119;Paripiranga;BA
+2120;Pau Brasil;BA
+2121;Paulo Afonso;BA
+2122;Pé de Serra;BA
+2123;Pedrão;BA
+2124;Pedro Alexandre;BA
+2125;Piatã;BA
+2126;Pilão Arcado;BA
+2127;Pindaí;BA
+2128;Pindobaçu;BA
+2129;Pintadas;BA
+2130;Piraí do Norte;BA
+2131;Piripá;BA
+2132;Piritiba;BA
+2133;Planaltino;BA
+2134;Planalto;BA
+2135;Poções;BA
+2136;Pojuca;BA
+2137;Ponto Novo;BA
+2138;Porto Seguro;BA
+2139;Potiraguá;BA
+2140;Prado;BA
+2141;Presidente Dutra;BA
+2142;Presidente Jânio Quadros;BA
+2143;Presidente Tancredo Neves;BA
+2144;Queimadas;BA
+2145;Quijingue;BA
+2146;Quixabeira;BA
+2147;Rafael Jambeiro;BA
+2148;Remanso;BA
+2149;Retirolândia;BA
+2150;Riachão das Neves;BA
+2151;Riachão do Jacuípe;BA
+2152;Riacho de Santana;BA
+2153;Ribeira do Amparo;BA
+2154;Ribeira do Pombal;BA
+2155;Ribeirão do Largo;BA
+2156;Rio de Contas;BA
+2157;Rio do Antônio;BA
+2158;Rio do Pires;BA
+2159;Rio Real;BA
+2160;Rodelas;BA
+2161;Ruy Barbosa;BA
+2162;Salinas da Margarida;BA
+2163;Salvador;BA
+2164;Santa Bárbara;BA
+2165;Santa Brígida;BA
+2166;Santa Cruz Cabrália;BA
+2167;Santa Cruz da Vitória;BA
+2168;Santa Inês;BA
+2169;Santaluz;BA
+2170;Santa Luzia;BA
+2171;Santa Maria da Vitória;BA
+2172;Santana;BA
+2173;Santanópolis;BA
+2174;Santa Rita de Cássia;BA
+2175;Santa Teresinha;BA
+2176;Santo Amaro;BA
+2177;Santo Antônio de Jesus;BA
+2178;Santo Estêvão;BA
+2179;São Desidério;BA
+2180;São Domingos;BA
+2181;São Félix;BA
+2182;São Félix do Coribe;BA
+2183;São Felipe;BA
+2184;São Francisco do Conde;BA
+2185;São Gabriel;BA
+2186;São Gonçalo dos Campos;BA
+2187;São José da Vitória;BA
+2188;São José do Jacuípe;BA
+2189;São Miguel das Matas;BA
+2190;São Sebastião do Passé;BA
+2191;Sapeaçu;BA
+2192;Sátiro Dias;BA
+2193;Saubara;BA
+2194;Saúde;BA
+2195;Seabra;BA
+2196;Sebastião Laranjeiras;BA
+2197;Senhor do Bonfim;BA
+2198;Serra do Ramalho;BA
+2199;Sento Sé;BA
+2200;Serra Dourada;BA
+2201;Serra Preta;BA
+2202;Serrinha;BA
+2203;Serrolândia;BA
+2204;Simões Filho;BA
+2205;Sítio do Mato;BA
+2206;Sítio do Quinto;BA
+2207;Sobradinho;BA
+2208;Souto Soares;BA
+2209;Tabocas do Brejo Velho;BA
+2210;Tanhaçu;BA
+2211;Tanque Novo;BA
+2212;Tanquinho;BA
+2213;Taperoá;BA
+2214;Tapiramutá;BA
+2215;Teixeira de Freitas;BA
+2216;Teodoro Sampaio;BA
+2217;Teofilândia;BA
+2218;Teolândia;BA
+2219;Terra Nova;BA
+2220;Tremedal;BA
+2221;Tucano;BA
+2222;Uauá;BA
+2223;Ubaíra;BA
+2224;Ubaitaba;BA
+2225;Ubatã;BA
+2226;Uibaí;BA
+2227;Umburanas;BA
+2228;Una;BA
+2229;Urandi;BA
+2230;Uruçuca;BA
+2231;Utinga;BA
+2232;Valença;BA
+2233;Valente;BA
+2234;Várzea da Roça;BA
+2235;Várzea do Poço;BA
+2236;Várzea Nova;BA
+2237;Varzedo;BA
+2238;Vera Cruz;BA
+2239;Vereda;BA
+2240;Vitória da Conquista;BA
+2241;Wagner;BA
+2242;Wanderley;BA
+2243;Wenceslau Guimarães;BA
+2244;Xique-Xique;BA
